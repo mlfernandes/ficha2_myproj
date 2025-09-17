@@ -1,1 +1,1 @@
-este é o exemplo de um ficheiro de texto file2
+alteracao: ste é o exemplo de um ficheiro de texto file2
